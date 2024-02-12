@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Pape Moussa Mbengue</h1>
-<h3 align="center">Hi, I'm Pape Moussa Mbengue, and I'm passionate about technology and software development. I enjoy exploring new fields and taking on stimulating challenges. My background in software development has enabled me to acquire skills in various programming languages, frameworks and technologies.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 >Hi, I'm Pape Moussa Mbengue, and I'm passionate about technology and software development. I enjoy exploring new fields and taking on stimulating challenges. My background in software development has enabled me to acquire skills in various programming languages, frameworks and technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
