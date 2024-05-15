@@ -1,5 +1,5 @@
-<h1 align="center">Hello World👋</h1>
-<h3 >Hi, I'm Pape Moussa Mbengue, <br>
+<h1 align="center">Hello World 👋</h1>
+<h3 > I'm Pape Moussa Mbengue, <br>
 and I'm passionate about technology and software development. 
 <br>I enjoy exploring new fields and taking on stimulating challenges. 
 <br>My background in software development has enabled me to acquire skills in various programming languages, frameworks and technologies.</h3>
