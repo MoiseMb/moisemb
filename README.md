@@ -1,6 +1,8 @@
 <h1 align="center">Hello World👋</h1>
 <h3 >Hi, I'm Pape Moussa Mbengue, <br>
-and I'm passionate about technology and software development. I enjoy exploring new fields and taking on stimulating challenges. My background in software development has enabled me to acquire skills in various programming languages, frameworks and technologies.</h3>
+and I'm passionate about technology and software development. 
+<br>I enjoy exploring new fields and taking on stimulating challenges. 
+<br>My background in software development has enabled me to acquire skills in various programming languages, frameworks and technologies.</h3>
 
 <h3 align="left" syle="margin-top:"50px";">Connect with me:</h3>
 
