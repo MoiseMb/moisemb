@@ -105,6 +105,6 @@ Last update on <#today_date>
 
 <#day_before_new_years> days before new years
 
-<#gabot_signing>
+<#MoiseBot_signing>
 
 `;
