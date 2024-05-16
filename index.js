@@ -31,20 +31,19 @@ function generateNewREADME() {
 }
 
 const moodByDay = {
-    1: 'hate',
-    2: 'wickedness',
-    3: 'pleasure',
-    4: 'wickedness',
-    5: 'cruelty',
-    6: 'horror',
-    7: 'love',
-  };
-  
-  function getMoiseBotSigning() {
-    const randomDay = Math.floor(Math.random() * 7) + 1; 
-    const mood = moodByDay[randomDay];
-    return `🤖 This README.md is updated with ${mood}, by MoiseBot ❤️`;
-  }
+  1: 'hate',
+  2: 'wickedness',
+  3: 'pleasure',
+  4: 'wickedness',
+  5: 'cruelty',
+  6: 'horror',
+  7: 'love',
+};
+
+function getMoiseBotSigning() {
+  const mood = moodByDay[today.getDay() + 1];
+  return `🤖 This README.md is updated with ${mood}, by MoiseBot ❤️`;
+}
 
 function getTodayDate() {
   return today.toDateString();
