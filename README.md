@@ -104,5 +104,5 @@ Last update on Thu May 16 2024
 
 **229 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with cruelty, by MoiseBot ❤️
+🤖 This README.md is updated with horror, by MoiseBot ❤️
 
