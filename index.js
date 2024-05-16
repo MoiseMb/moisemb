@@ -41,7 +41,7 @@ const moodByDay = {
 };
 
 function getMoiseBotSigning() {
-  const mood = moodByDay[today.getDay() + 1];
+  const mood = moodByDay[today.getDay() + 2];
   return `🤖 This README.md is updated with ${mood}, by MoiseBot ❤️`;
 }
 
