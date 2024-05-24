@@ -77,7 +77,7 @@ module.exports=
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="45" alt="nestjs logo"  />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg" height="45" alt="nestjs logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
   <img width="18" />
