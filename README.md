@@ -100,9 +100,9 @@
 
 ###
 
-Last update on Wed Dec 04 2024
+Last update on Thu Dec 05 2024
 
-**28 day before 2025 ⏱** days before new years
+**27 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with wickedness, by MoiseBot ❤️
+🤖 This README.md is updated with cruelty, by MoiseBot ❤️
 
