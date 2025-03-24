@@ -9,14 +9,7 @@
 
 ###
 
-<h4 align="left">👋 Hey there! I'm Pape Moussa Mbengue</h4>  
-<p align="left">💡 Tech enthusiast & problem solver at heart.<br>  
-I love turning ideas into reality through code, exploring new technologies, and taking on challenges that push me forward.</p>  
-
-<p align="left">🚀 Whether it's building cool projects, optimizing workflows, or diving into the latest tech trends, I'm always up for the adventure!</p>  
-
-<p align="left">🔧 <b>Stack & Tools:</b> I work with a mix of frontend, backend, mobile, and DevOps tools—always learning, always improving.</p>
-
+<h4 align="left">I'm Pape Moussa Mbengue, <br>and I'm passionate about technology and software development. <br>I enjoy exploring new fields and taking on stimulating challenges. <br>My background in software development has enabled me to acquire skills in various programming languages, frameworks and technologies.</h4>
 
 ###
 
@@ -109,7 +102,7 @@ I love turning ideas into reality through code, exploring new technologies, and 
 
 Last update on Mon Mar 24 2025
 
-**283 day before 2026 ⏱** days before new years
+**282 day before 2026 ⏱** days before new years
 
 🤖 This README.md is updated with wickedness, by MoiseBot ❤️
 
